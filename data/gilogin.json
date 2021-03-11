@@ -1,0 +1,13 @@
+{
+	"discord": {
+		"token": "your-token"
+		},
+		"mysql": {
+			"host": "mysql-host",
+			"username": "mysql-user",
+			"password": "mysql-password",
+			"db": "mysql-db",
+			"bignumbers": true,
+			"bigstrings": true
+			}
+}

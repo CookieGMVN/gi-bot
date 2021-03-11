@@ -1,0 +1,9 @@
+{
+	"admin": ["your-id"],
+	"prefix": "your-prefix",
+	"db": "your-db",
+	"status": {
+		"game": "your-status",
+		"type": "your-status-type"
+		}
+}
