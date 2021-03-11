@@ -3,7 +3,7 @@
 This is an Un-official Genshin Impact Bot use Node.js, Discord.js to run on Discord.
 
 # Self-Hosting
-This project use MariaDB database for its database. 
+This project use [MariaDB](https://mariadb.org/) database for its database. 
 
 # License
 GI Bot is licensed under the terms of [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/C/gi-bot/blob/master/LICENSE) ("CC-BY-NC-SA-4.0"). Commercial use is not allowed under this license. This includes any kind of revenue made with or based upon the software, even donations.
