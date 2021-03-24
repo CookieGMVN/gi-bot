@@ -37,13 +37,6 @@ client.on('message', message => {
 if (!message.content.startsWith(prefix) || message.author.bot) return;		
 	const args = message.content.slice(prefix.length).trim().split(/ +/);
 	const commandName = args.shift().toLowerCase();
-
-	var con = mysql.createConnection({
-  host: `localhost`,
-  user: `gibot`,
-  password: `CookieGMVN#9173`,
-  database: `gibot`
-});
 	
   	if (message.content === `${prefix}restart`) {
   		if(`${message.author}` === '<@'+admin+'>' || `${message.author}` === '<@!'+admin+'>'){
